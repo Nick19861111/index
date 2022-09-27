@@ -23,7 +23,7 @@
 - uml
 	- 面向对象分析设计
 - 图形学的基础算法
-	- flash动画编程1
+	- [flash动画编程1](https://github.com/Nick19861111/animation "动画")
 	- flash动画编程2
 - 网络编程
 	- linux网络编程（核心）
