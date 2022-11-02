@@ -16,4 +16,4 @@
 	- [工作上直接用的上技术](https://github.com/Nick19861111/work)
 
 - 工具书阅读
-	- 重构-改善既有代码的设计
+	- [重构-改善既有代码的设计](https://github.com/Nick19861111/refactor)
