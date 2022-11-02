@@ -19,4 +19,4 @@
 	- [重构-改善既有代码的设计](https://github.com/Nick19861111/refactor)
 
 - 好文章学习
-	- 简化复杂的方法
+	- [简化复杂的方法](https://zhuanlan.zhihu.com/p/370184120)
