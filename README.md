@@ -10,7 +10,7 @@
 	- [游戏服务器开发基础](https://github.com/Nick19861111/GameServer)
 	- openresty
 		- [lua基础](https://www.runoob.com/lua/lua-tutorial.html)
-		- nginx基础
+		- [nginx基础](https://github.com/Nick19861111/nginx)
 		- luajit基础
 
 - 工作整理
