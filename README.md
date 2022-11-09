@@ -8,6 +8,8 @@
 
 - 应用整理
 	- [游戏服务器开发基础](https://github.com/Nick19861111/GameServer)
+	- openresty
+		- 基础
 
 - 设计整理
 	- [人月](https://github.com/Nick19861111/moon)
